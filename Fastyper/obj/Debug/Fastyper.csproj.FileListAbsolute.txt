@@ -1,0 +1,12 @@
+C:\Users\Aca\Desktop\cs_app_portfolio\Fastyper\Fastyper\bin\Debug\Fastyper.exe.config
+C:\Users\Aca\Desktop\cs_app_portfolio\Fastyper\Fastyper\bin\Debug\Fastyper.exe
+C:\Users\Aca\Desktop\cs_app_portfolio\Fastyper\Fastyper\bin\Debug\Fastyper.pdb
+C:\Users\Aca\Desktop\cs_app_portfolio\Fastyper\Fastyper\obj\Debug\Fastyper.csprojResolveAssemblyReference.cache
+C:\Users\Aca\Desktop\cs_app_portfolio\Fastyper\Fastyper\obj\Debug\Fastyper.Properties.Resources.resources
+C:\Users\Aca\Desktop\cs_app_portfolio\Fastyper\Fastyper\obj\Debug\Fastyper.csproj.GenerateResource.Cache
+C:\Users\Aca\Desktop\cs_app_portfolio\Fastyper\Fastyper\obj\Debug\Fastyper.exe
+C:\Users\Aca\Desktop\cs_app_portfolio\Fastyper\Fastyper\obj\Debug\Fastyper.pdb
+C:\Users\Aca\Desktop\cs_app_portfolio\Fastyper\Fastyper\obj\Debug\Fastyper.FastyperForm.resources
+C:\Users\Aca\Desktop\cs_app_portfolio\Fastyper\Fastyper\obj\Debug\Fastyper.HomeControl.resources
+C:\Users\Aca\Desktop\cs_app_portfolio\Fastyper\Fastyper\obj\Debug\Fastyper.DifficultyControl.resources
+C:\Users\Aca\Desktop\cs_app_portfolio\Fastyper\Fastyper\obj\Debug\Fastyper.GameControl.resources
